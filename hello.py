@@ -13,6 +13,3 @@ print('Brave new world.')
 print('Hello world!')
 
 print('Big browser is watching you!')
-
-
-print('那我就新建 来让你演示一下 revert好了')
