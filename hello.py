@@ -1,5 +1,8 @@
 print('我便乘龙啦！！')
 
+
+print('天若有情天亦老，我为长者续1s'')
+
 print('pork,I need healing!')
 
 print("2018")
